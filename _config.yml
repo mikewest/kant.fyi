@@ -1,0 +1,5 @@
+url: https://kant.fyi
+exclude:
+- CNAME
+- Gemfile
+- README.md
