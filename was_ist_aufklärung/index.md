@@ -1,5 +1,6 @@
 # Beantwortung der Frage: "Was ist Aufklärung?"
 
+<a id="p1" href="#p1" class="permalink"></a>
 **_Aufklärung_ ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit.**
 **Unmündigkeit** ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu
 bedienen. **Selbstverschuldet** ist diese Unmündigkeit, wenn die Ursache derselben nicht am
@@ -7,6 +8,7 @@ Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich sei
 Leitung eines anderen zu bedienen. _Sapere Aude!_<a class="note" id="cite1" href="#note1">1</a>
 "Habe Muth dich deines **eigenen** Verstandes zu bedienen!" ist also der Wahlspruch der Aufklärung.
 
+<a id="p2" href="#p2" class="permalink"></a>
 Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil der
 Menschen, nachdem sie die Natur längst von fremder Leitung frei gesprochen
 (<span class="translation" lang="la">naturaliter maiorennes</span>),
@@ -29,6 +31,7 @@ nicht, denn sie würden durch einigemahl Fallen wohl endlich gehen lernen;
 allein ein Beispiel von der Art macht doch schüchtern, und schrekt
 gemeiniglich von allen ferneren Versuchen ab.
 
+<a id="p3" href="#p3" class="permalink"></a>
 Es ist also für jeden einzelnen Menschen schwer, sich aus der ihm
 beinahe zur Natur gewordenen Unmündigkeit herauszuarbeiten. Er hat sie
 sogar lieb gewonnen, und ist vor der Hand wirklich unfähig, sich seines
@@ -42,6 +45,7 @@ giebt es nur Wenige, denen es gelungen ist, durch eigene Bearbeitung ihres
 Geistes sich aus der Unmündigkeit heraus zu wikkeln, und dennoch einen
 sicheren Gang zu thun.
 
+<a id="p4" href="#p4" class="permalink"></a>
 Daß aber ein Publikum sich selbst aufkläre, ist eher möglich; ja es
 ist, wenn man ihm nur Freiheit läßt, beinahe unausbleiblich. Denn da
 werden sich immer einige Selbstdenkende, sogar unter den eingesetzten
@@ -61,6 +65,7 @@ Reform der Denkungsart zu Stande kommen; sondern neue Vorurtheile werden,
 eben sowohl als die alten, zum Leitbande des gedankenlosen großen Haufens
 dienen.
 
+<a id="p5" href="#p5" class="permalink"></a>
 Zu dieser Aufklärung aber wird nichts erfordert als
 **_Freiheit_**; und zwar die unschädlichste unter
 allem, was nur Freiheit heißen mag, nämlich die: von seiner Vernunft in
@@ -141,6 +146,7 @@ des Volks (in geistlichen Dingen) selbst wieder unmündig sein sollen, ist
 eine Ungereimtheit, die auf Verewigung der Ungereimtheiten
 hinausläuft.
 
+<a id="p6" href="#p6" class="permalink"></a>
 Aber sollte nicht eine Gesellschaft von Geistlichen, etwa eine
 Kirchenversammlung, oder eine ehrwürdige Klassis (wie sie sich unter den
 Holländern selbst nennt) berechtigt sein, sich eidlich unter einander auf
@@ -202,6 +208,7 @@ seine oberste Gewalt so weit erniedrigt, den geistlichen Despotism einiger
 Tyrannen in seinem Staate gegen seine übrigen Unterthanen zu
 unterstützen.
 
+<a id="p7" href="#p7" class="permalink"></a>
 Wenn denn nun gefragt wird: "Leben wir jetzt in einem
 **aufgeklärten** Zeitalter?" so ist die Antwort:
 "Nein, aber wohl in einem Zeitalter der
@@ -217,6 +224,7 @@ Betracht ist dieses Zeitalter das Zeitalter der Aufklärung, oder das
 Jahrhundert **_Friederichs_**<a class="note" id="cite2"
 href="#note2">2</a>.
 
+<a id="p8" href="#p8" class="permalink"></a>
 Ein Fürst, der es seiner nicht unwürdig findet, zu sagen: daß er es für
 **Pflicht** halte, in Religionsdingen den Menschen nichts
 vorzuschreiben, sondern ihnen darin volle Freiheit zu lassen, der also
@@ -238,6 +246,7 @@ gemeinen Wesens nicht das mindeste zu besorgen sei. Die Menschen arbeiten
 sich von selbst nach und nach aus der Rohigkeit heraus, wenn man nur nicht
 absichtlich künstelt, um sie darin zu erhalten.
 
+<a id="p9" href="#p9" class="permalink"></a>
 Ich habe den Hauptpunkt der Aufklärung, die des Ausganges der Menschen
 aus ihrer selbst verschuldeten Unmündigkeit, vorzüglich in
 **Religionssachen** gesetzt: weil in Ansehung der Künste und
@@ -253,6 +262,7 @@ derselben, sogar mit einer freimüthigen Kritik der schon gegebenen, der
 Welt öffentlich vorzulegen; davon wir ein glänzendes Beispiel haben,
 wodurch noch kein Monarch demjenigen vorging, welchen wir verehren.
 
+<a id="p10" href="#p10" class="permalink"></a>
 Aber auch nur derjenige, der, selbst aufgeklärt, sich nicht vor
 Schatten fürchtet, zugleich aber ein wohldisciplinirtes zahlreiches Heer
 zum Bürgen der öffentlichen Ruhe zur Hand hat, — kann das sagen, was
@@ -291,6 +301,7 @@ behandeln.
 </ol>
 
 <div class="meta">
+
   <p>
     Completed on <abbr class="updated" title="1794-09-30">September 30<sup>th</sup>, 1784</abbr>,
     and first published in the <abbr class="published" title="1784-12">December, 1784</abbr> issue
@@ -299,4 +310,5 @@ behandeln.
   </p>
   <p class="rights">This work is in <a rel="copyright license" href="http://creativecommons.org/licenses/publicdomain/">the public domain</a>.</p>
   <p>Go back to the <a href='/'>list of texts</a>.
+
 </div>

@@ -1,5 +1,6 @@
 # An Answer to the Question: "What is Enlightenment?"
 
+<a id="p1" href="#p1" class="permalink"></a>
 **_Enlightenment_ is man's emergence from his self-imposed immaturity.** **Immaturity** is the
 inability to use one's understanding without guidance from another. This immaturity is
 **self-imposed** when its cause lies not in lack of understanding, but in lack of resolve and
@@ -7,6 +8,7 @@ courage to use it without guidance from another. _Sapere Aude!_<a class="note" i
 "Have courage to use **your own** understanding!" &#8212; that is the motto of
 enlightenment.
 
+<a id="p2" href="#p2" class="permalink"></a>
 Laziness and cowardice are the reasons why so great a proportion of
 men, long after nature has released them from alien guidance (<span
 class="translation" lang="la">naturaliter maiorennes</span>), nonetheless
@@ -27,6 +29,7 @@ danger is not actually so great, for after falling a few times they would
 in the end certainly learn to walk; but an example of this kind makes men
 timid and usually frightens them out of all further attempts.
 
+<a id="p3" href="#p3" class="permalink"></a>
 Thus, it is difficult for any individual man to work himself out of the
 immaturity that has all but become his nature. He has even become fond of
 this state and for the time being is actually incapable of using his own
@@ -38,6 +41,7 @@ ditch, since he is unaccustomed to this kind of free movement.
 Consequently, only a few have succeeded, by cultivating their own minds,
 in freeing themselves from immaturity and pursuing a secure course.
 
+<a id="p4" href="#p4" class="permalink"></a>
 But that the public should enlighten itself is more likely; indeed, if
 it is only allowed freedom, enlightenment is almost inevitable. For even
 among the entrenched guardians of the great masses a few will always think
@@ -55,6 +59,7 @@ or power-grabbing oppression, but it can never truly reform a manner of
 thinking; instead, new prejudices, just like the old ones they replace,
 will serve as a leash for the great unthinking mass.
 
+<a id="p5" href="#p5" class="permalink"></a>
 Nothing is required for this enlightenment, however, except
 **freedom**; and the freedom in question is the least harmful
 of all, namely, the freedom to use reason **publicly** in all
@@ -126,6 +131,7 @@ to speak his own mind. For that the (spiritual) guardians of a people
 should themselves be immature is an absurdity that would insure the
 perpetuation of absurdities.
 
+<a id="p6" href="#p6" class="permalink"></a>
 But would a society of pastors, perhaps a church assembly or venerable
 presbytery (as those among the Dutch call themselves), not be justified in
 binding itself by oath to a certain unalterable symbol in order to secure
@@ -179,6 +185,7 @@ href="#note2">2</a> &#8212; as well as, indeed even more, when
 he despoils his highest authority by supporting the spiritual despotism of
 some tyrants in his state over his other subjects.
 
+<a id="p7" href="#p7" class="permalink"></a>
 If it is now asked, "Do we presently live in an
 **enlightened age**?" the answer is, "No, but we
 do live in an age of **enlightenment**." As matters now
@@ -193,6 +200,7 @@ the age of enlightenment, the century of
 **_Frederick_**<a class="note" id="cite3"
 href="#note3">3</a>.
 
+<a id="p8" href="#p8" class="permalink"></a>
 A prince who does not find it beneath him to say that he takes it to be
 his **duty** to prescribe nothing, but rather to allow men
 complete freedom in religious matters&#8212;who thereby renounces the
@@ -213,6 +221,7 @@ public order and harmony in the commonwealth. If only they refrain from
 inventing artifices to keep themselves in it, men will gradually raise
 themselves from barbarism.
 
+<a id="p9" href="#p9" class="permalink"></a>
 I have focused on **religious matters** in setting out my main point concerning enlightenment, i.e.,
 man's emergence from self-imposed immaturity, first because our rulers have no interest in assuming
 the role of their subjects' guardians with respect to the arts and sciences, and secondly because
@@ -223,6 +232,7 @@ to set before the world their thoughts concerning better formulations of his law
 involves frank criticism of legislation currently in effect. We have before us a shining example,
 with respect to which no monarch surpasses the one whom we honor.
 
+<a id="p10" href="#p10" class="permalink"></a>
 But only a ruler who is himself enlightened and has no dread of shadows, yet who likewise has a
 well-disciplined, numerous army to guarantee public peace, can say what no republic may dare,
 namely: "**Argue as much as you want and about what you want, but obey!**" Here as elsewhere, when
